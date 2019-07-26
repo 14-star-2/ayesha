@@ -1,0 +1,28 @@
+h1{
+  font-size: 220px;
+  font-family: 'Sacramento', cursive;
+  color: lightblue;
+}
+html{
+    background-color: silver;
+}
+h6{
+  font-size: 120px;
+  font-family: 'Sacramento', cursive;
+  color: darkblue;
+}
+h2{
+  font-size: 120px;
+  font-family: 'Sacramento', cursive;
+  color: pink;
+}
+p{
+  font-size: 120px;
+  font-family: 'Sacramento', cursive;
+  color: lightblue;
+}
+div{
+  font-size: 120px;
+  font-family: 'Sacramento', cursive;
+  color: lightpink;
+}
